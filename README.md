@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="SwiftDataStructures Banner" />
+  <img src="headimage" alt="SwiftDataStructures Banner" />
 </p>
 
 # 📦 SwiftDataStructures
