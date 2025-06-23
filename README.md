@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="SwiftDataStructures Banner" />
+</p>
+
 # 📦 SwiftDataStructures
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white)
