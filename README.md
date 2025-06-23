@@ -1,5 +1,7 @@
 # 📦 SwiftDataStructures
-
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/Author-Grisha55-blue?style=for-the-badge)
 > **Hand-crafted data structures in Swift** — Learn how arrays, stacks, queues, linked lists, trees, and more work under the hood.
 
 ---
@@ -52,8 +54,7 @@ cd SwiftDataStructures
 
 ---
 
-## 📝 License
-MIT License
+Made with ❤️ by Grisha55
 
 ---
 ## 🤝 Contributions
